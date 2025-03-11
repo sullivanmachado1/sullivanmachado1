@@ -7,12 +7,15 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas e transformar 
 🛠️ Tecnologias
 
 Linguagens: Java, TypeScript
+
 Frameworks: Spring Boot, Angular
+
 Banco de Dados: MySQL, PostgreSQL
 
 📫 Contato:
 
 📧 Email: sullivanassumpcao@gmail.com 💼 
+
 📧 LinkedIn:[Sullivan Machado](www.linkedin.com/in/sullivan-machado)📂 
 
 🚀 Sempre em busca de novas oportunidades!
