@@ -14,7 +14,8 @@ Banco de Dados: MySQL, PostgreSQL
 
 📫 Contato
 
-📧 Email: sullivan.machado@example.com💼 
-📧 LinkedIn: linkedin.com/in/sullivanmachado📂 
+📧 Email: sullivanassumpcao@gmail.com 💼 
+
+📧 LinkedIn: www.linkedin.com/in/sullivan-machado📂 
 
 🚀 Sempre em busca de novas oportunidades!
