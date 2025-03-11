@@ -16,6 +16,6 @@ Banco de Dados: MySQL, PostgreSQL
 
 📧 Email: sullivanassumpcao@gmail.com 💼 
 
-📧 LinkedIn:Sullivan Machado(www.linkedin.com/in/sullivan-machado)📂 
+📧 LinkedIn:Sullivan Machado [www.linkedin.com/in/sullivan-machado]📂 
 
 🚀 Sempre em busca de novas oportunidades!
