@@ -1,4 +1,5 @@
 🖥️ Olá, eu sou o Sullivan – Engenheiro de Dados
+
 🚀 Sobre Mim
 
 Sou apaixonado por dados e tecnologia, com foco em transformar informações em soluções escaláveis e inteligentes. Atualmente, curso Ciência da Computação, onde venho aprofundando meus conhecimentos em estruturas de dados, bancos de dados, engenharia de software e principalmente engenharia de dados. Estou sempre em busca de desafios que envolvam ETL, pipelines de dados, Big Data e cloud computing.
